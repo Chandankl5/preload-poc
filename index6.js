@@ -1,0 +1,1 @@
+console.log('---Index 6 script exec')
